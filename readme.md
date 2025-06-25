@@ -65,4 +65,4 @@ Feel free to use this code for your learning and projects!
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by Developer Junaid
