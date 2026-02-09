@@ -1,10 +1,10 @@
-# HTML Crash Course 2025 🚀
+# HTML Crash Course 2026 🚀
 
 ![HTML Crash Course Thumbnail](image.png)
 
 ## 📺 Watch the Video
 
-[HTML Crash Course 2025](https://youtu.be/_FFhkyourCQ)
+[HTML Crash Course 2026](https://youtu.be/_FFhkyourCQ)
 
 ## 🎯 What You'll Learn
 
